@@ -6,5 +6,11 @@
     .style-img {
       @apply w-10;
     }
+    .style-cardsCampos {
+      @apply w-96 flex flex-col items-center justify-center bg-black text-white h-60 p-5;
+    }
+    .style-input {
+      @apply text-white bg-black w-full p-2 rounded-xl;
+    }
   }
   
