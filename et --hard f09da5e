@@ -1,0 +1,14 @@
+[33mf09da5e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to f09da5e
+[33m9830119[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mrecuperado[m[33m)[m HEAD@{1}: reset: moving to 9830119
+[33mea95334[m HEAD@{2}: checkout: moving from recuperado to main
+[33m9830119[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mrecuperado[m[33m)[m HEAD@{3}: checkout: moving from 9830119267750aa278ccd5439e5d499e4b17a2fd to recuperado
+[33m9830119[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mrecuperado[m[33m)[m HEAD@{4}: checkout: moving from main to 9830119
+[33mea95334[m HEAD@{5}: checkout: moving from main to main
+[33mea95334[m HEAD@{6}: checkout: moving from 7eedb0ac7453a15eaa17eddb3a8d2439d792f810 to main
+[33m7eedb0a[m HEAD@{7}: checkout: moving from main to 7eedb0a
+[33mea95334[m HEAD@{8}: commit: Eliminados submódulos Ordo y backend del índice
+[33m7eedb0a[m HEAD@{9}: commit: Añadidos Ordo y backend como directorios normales
+[33m85ec491[m HEAD@{10}: commit: Eliminados submódulos Ordo y backend
+[33m9830119[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mrecuperado[m[33m)[m HEAD@{11}: commit: Resueltos conflictos entre cambios locales y remotos
+[33mf09da5e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{12}: Branch: renamed refs/heads/master to refs/heads/main
+[33mf09da5e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{14}: commit (initial): Primer commit

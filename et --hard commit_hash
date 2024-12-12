@@ -1,0 +1,11 @@
+[33mcommit 9830119267750aa278ccd5439e5d499e4b17a2fd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mrecuperado[m[33m)[m
+Author: Faustino <faustiwatschinger@gmail.com>
+Date:   Thu Dec 12 15:18:28 2024 -0300
+
+    Resueltos conflictos entre cambios locales y remotos
+
+[33mcommit f09da5ea5fb6c4d4b814b055378b962d04c034dd[m
+Author: Faustino <faustiwatschinger@gmail.com>
+Date:   Thu Dec 12 15:12:07 2024 -0300
+
+    Primer commit
